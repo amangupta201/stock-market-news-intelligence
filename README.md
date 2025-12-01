@@ -347,16 +347,6 @@ API_PORT=8001
 
 ---
 
-## 🚀 Future Enhancements
-
-- [ ] Real-time WebSocket alerts
-- [ ] Sentiment analysis with price impact prediction
-- [ ] Multi-lingual support (Hindi, regional languages)
-- [ ] Supply chain impact modeling
-- [ ] Historical trend analysis
-- [ ] Portfolio impact aggregation
-
----
 
 ## 📄 License
 
@@ -364,18 +354,5 @@ This project was created for the Tradl Hackathon 2025.
 
 ---
 
-## 👥 Team
-
-Built with ❤️ for the Tradl Hackathon
-
----
-
-## 📞 Support
-
-For questions or issues:
-- Email: support@alumnx.com
-- Subject: "Query regarding Tradl Hackathon"
-
----
 
 **⭐ Star this repo if you find it useful!**
